@@ -17,7 +17,6 @@ body{
     position:relative;
 }
 
-/* animated background */
 #bg-video{
 position:fixed;
 top:0;
@@ -292,7 +291,7 @@ filter:brightness(0.35);
     filter:brightness(1.08);
 }
 
-/* sections */
+
 
 .section{
     padding:55px 0 20px;
@@ -307,7 +306,7 @@ filter:brightness(0.35);
     text-shadow:0 0 14px rgba(255,50,100,0.16);
 }
 
-/* cards */
+
 
 .about-box,
 .project-card,
@@ -352,7 +351,7 @@ filter:brightness(0.35);
     font-size:16px;
 }
 
-/* projects */
+
 
 .project-container{
     display:flex;
@@ -388,7 +387,6 @@ filter:brightness(0.35);
     font-size:15px;
 }
 
-/* skills */
 
 .skills-container{
     display:flex;
@@ -425,7 +423,7 @@ filter:brightness(0.35);
     color:#ffe2e8;
 }
 
-/* contact */
+
 
 .contact-box{
     padding:30px;
@@ -444,7 +442,7 @@ filter:brightness(0.35);
     margin-right:10px;
 }
 
-/* footer */
+
 
 .footer{
     text-align:center;
@@ -453,7 +451,7 @@ filter:brightness(0.35);
     font-size:15px;
 }
 
-/* animations */
+
 
 @keyframes bgShift{
     0%{background-position:0% 50%;}
@@ -498,7 +496,6 @@ filter:brightness(0.35);
     }
 }
 
-/* responsive */
 
 @media (max-width:900px){
     .hero{
