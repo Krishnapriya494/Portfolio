@@ -17,4 +17,16 @@ This portfolio was built using the following technologies:
 - HTML5
 - CSS3 (Flexbox and CSS Grid)
 
+Setup instructions
+
+- Clone the Repository
+- Navigate to Project Folder
+- Open the Project
+
+How to Run the Project
+
+- Open the folder in VS Code
+- Right click on index.html
+- Click "Open with Live Server"
+
 The purpose of this project is to present my work in a visually appealing and organized manner, while also demonstrating my understanding of front-end web development concepts.
